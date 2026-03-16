@@ -83,7 +83,7 @@ A comprehensive, responsive news aggregation platform with live weather integrat
  
 ---
  
-### 🛒 E-Commerce Website
+### 🛒 SHOPLANE — E-Commerce Website
 > `JavaScript` `HTML5` `CSS3` `XMLHttpRequest` `REST API`
  
 A fully functional e-commerce storefront built with **pure vanilla JavaScript** — no frameworks, no shortcuts.
