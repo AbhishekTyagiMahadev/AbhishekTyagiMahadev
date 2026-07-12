@@ -1,151 +1,144 @@
-<div align="center">
- 
-# 👋 Hey, I'm Abhishek Tyagi
- 
-### Java & Full Stack Developer · DSA Enthusiast · MCA @ AKTU
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-tyagi-b17463305)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekTyagiMahadev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishektyagi250342@gmail.com)
- 
-</div>
- 
+# 👋 Hi, I'm Abhishek Tyagi
+
+**Full Stack Developer** | MCA @ AKTU | JavaScript · React.js · Node.js · REST APIs
+
+> Independently designed, built, and deployed four production-grade applications spanning frontend, backend, AI integration, and cloud deployment.
+
+📞 +91 6398050556 &nbsp;|&nbsp; 📧 [abhishektyagi250342@gmail.com](mailto:abhishektyagi250342@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-tyagi-b17463305/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/AbhishekTyagiMahadev)
+
 ---
- 
+
 ## 🧑‍💻 About Me
- 
-I'm a **Java & Full Stack Developer** pursuing my **MCA in Computer Science** at Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow. I build **scalable, production-ready web applications** across the full stack — from crafting responsive UIs to engineering robust backend systems with **Java and the MERN stack**.
- 
-I'm deeply invested in **Data Structures & Algorithms**, approaching every problem with a focus on efficiency, clean logic, and optimal solutions. Strong OOP foundations in Java drive the way I architect systems — modular, maintainable, and built to scale.
- 
-- 🎓 **MCA @ AKTU** — SGPA: 7.96/10 (Sem 1) | 2025–2027
-- 🎓 **B.Sc. Computer Science @ CCS University** — 75% | 2022–2025
-- ☕ **Java Full Stack** — OOP, DSA, backend logic & scalable architecture
-- 🧠 **DSA-focused** — consistently solving problems across arrays, trees, graphs & dynamic programming
-- ⚡ Self-taught in the **MERN Stack** through project-based learning
-- 📍 Based in **India**
- 
+
+I'm a hands-on Full Stack Developer specializing in **JavaScript, React.js, Node.js**, and **REST API design**. Currently pursuing my MCA at AKTU while actively shipping production-ready projects — from frontend to backend to AI integration and cloud deployment. Strong foundation in data structures, algorithms, and system design, with a focus on clean, scalable, maintainable code.
+
 ---
- 
-## 🚀 Tech Stack
- 
-### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
- 
-### Backend & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
- 
+
+## 💼 Experience
+
+**Independent Full Stack Developer** — Self-Directed Product Development &nbsp;|&nbsp; *Jul 2025 – Present*
+
+- Independently designed, built, and deployed 4 production-grade applications spanning frontend, backend, AI integration, and cloud infrastructure
+- Built and deployed **CVisionAI**, a zero-backend AI resume analyzer, using serverless auth, storage, and AI inference via the Puter.js SDK — containerized with Docker and deployed to Netlify
+- Engineered **Shoplane**, a full-scale e-commerce platform, and **NewsBreeze**, a multi-category news aggregator with NLP-based summarization
+- Maintained clean Git histories and public repositories across all projects, with live deployments on Vercel and Netlify
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Period | Score |
+|--------|-------------|--------|-------|
+| **MCA** — Master of Computer Applications | Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow | Jul 2025 – Jun 2027 | SGPA 7.96/10 (Sem 1) |
+| **B.Sc.** — Computer Science | Chaudhary Charan Singh University (CCSU), Meerut | Jul 2022 – Jun 2025 | 75% |
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+`JavaScript (ES6+)` `Java` `SQL` `HTML5` `CSS3`
+
+### Frontend Development
+`React.js` `React Hooks` `React Router v7` `Tailwind CSS` `Bootstrap` `DOM Manipulation`
+
+### Backend Development
+`Node.js` `Express.js` `Spring Boot` `RESTful API Design` `Fetch API`
+
+### Databases & Storage
+`MongoDB` `MySQL` `SQL`
+
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
- 
-### ☕ Java & DSA
-> Core strengths that drive how I think and build
- 
-- **OOP with Java** — Encapsulation, Inheritance, Polymorphism, Abstraction
-- **Data Structures** — Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps, Hash Maps
-- **Algorithms** — Sorting, Searching, Recursion, Dynamic Programming, Greedy, Backtracking
-- **Complexity Analysis** — Time & Space complexity, Big-O thinking
-- **System Design Fundamentals** — REST APIs, Database Design, Scalability patterns
- 
+`Git` `GitHub` `Vite` `Zustand` `Postman` `VS Code`
+
+### Concepts
+`Data Structures & Algorithms` `OOP` `System Design` `Responsive Design`
+
 ---
- 
-### 📰 NewsBreeze — Real-Time News Aggregator
-> `HTML5` `CSS3` `JavaScript` `News API` `OpenWeather API`
- 
-A comprehensive, responsive news aggregation platform with live weather integration — built with **zero frameworks**, showcasing deep vanilla JS proficiency.
- 
-- 🗂️ **9+ categories** — Sports, Finance, Tech, Politics, Health, Crime & more
-- 🌦️ **Dual-feature interface** — Live news feed + location-based weather with 95%+ accuracy
-- ⚡ **40% faster perceived load** — via debounced search, event delegation & lazy loading
-- 📱 **Fully responsive** — optimized for mobile, tablet, and desktop
-- 🔄 **Modular architecture** — template-based card generation with async error handling & retry logic
- 
+
+## 🚀 Projects
+
+### 🧠 CVisionAI — AI Resume Analyzer
+**React.js · TypeScript · Tailwind CSS · Puter.js · Vite · Zustand · Docker** &nbsp;|&nbsp; *2025*
+&nbsp;·&nbsp; [🌐 Live](https://cvisionai.netlify.app/) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/AbhishekTyagiMahadev/CVisionAI)
+
+An AI-powered resume analyzer with a zero-backend, browser-based architecture that matches resumes against job listings, returning an ATS compatibility score with tailored, per-listing feedback.
+
+- **Serverless Architecture:** Auth, storage, and AI inference handled entirely client-side via the Puter.js SDK — no backend infrastructure required
+- **ATS Scoring Engine:** Delivers a 0–100 compatibility score with structured, per-listing keyword feedback
+- **State Management:** Architected with React Router v7 and Zustand global state management on a reusable component library
+- **Deployment:** Containerized with Docker and deployed to Netlify
+
 ---
- 
-### 🛒 SHOPLANE — E-Commerce Website
-> `JavaScript` `HTML5` `CSS3` `XMLHttpRequest` `REST API`
- 
-A fully functional e-commerce storefront built with **pure vanilla JavaScript** — no frameworks, no shortcuts.
- 
-- 🛍️ **Complete shopping flow** — product listing, item detail views, cart, and order placement
-- 🍪 **Cookie-based cart persistence** — state retained across full page reloads
-- 🔌 **REST API integration** — async product catalog via XMLHttpRequest with robust error handling
-- ♻️ **~40% less code duplication** — via shared modular components and dynamic content injection
- 
+
+### 📰 NewsBreeze — News Aggregator
+**HTML5 · CSS3 · JavaScript · News API · OpenWeather API · Fetch API** &nbsp;|&nbsp; *Dec 2024*
+&nbsp;·&nbsp; [🐙 GitHub](https://github.com/AbhishekTyagiMahadev/NewsBreeze)
+
+A full-featured news aggregation platform with real-time content rendering across 9+ categories.
+
+- **9+ Categories:** Sports, Finance, Technology, Politics, Economy, Crime, Health — rendered using vanilla JavaScript with efficient DOM manipulation
+- **Dual-Feature Interface:** Seamless inline integration combining news feed and weather forecast with OpenWeather API
+- **NLP-Based Summarization:** Extractive summarization achieving **92% accuracy** across 1,800+ evaluated articles
+- **Intuitive UX:** Collapsible sidebar navigation, intelligent category switching, and card-based responsive layout
+
 ---
- 
-## 📊 GitHub Stats
- 
+
+### 🛍️ SHOPLANE — E-Commerce Website
+**JavaScript · HTML5 · CSS3 · XMLHttpRequest · REST API · Cookies** &nbsp;|&nbsp; *Jun 2025*
+&nbsp;·&nbsp; [🌐 Live](https://shoplane-black.vercel.app/) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/AbhishekTyagiMahadev/SHOPLANE)
+
+Full-scale e-commerce platform built with zero external frameworks — pure vanilla JavaScript.
+
+- **API Integration:** Used XMLHttpRequest to asynchronously fetch and render product catalog data with full HTTP request lifecycle handling
+- **Cart System:** Cookie-based cart persistence maintaining shopping state across full page reloads with smart badge update flow
+- **Architecture:** Modular, template-based card generation with asynchronous API calls and retry logic
+- **Code Efficiency:** Shared header/footer component architecture reduced code duplication by **~40%** and improved maintainability
+
+---
+
+### 💻 Personal Portfolio
+**HTML5 · CSS3 · JavaScript · Vercel** &nbsp;|&nbsp; *2025*
+&nbsp;·&nbsp; [🌐 Live](#) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/AbhishekTyagiMahadev)
+
+A production developer portfolio built on a pure vanilla stack, featuring a custom CSS cursor, scroll-triggered reveal animations, and a fully responsive, accessible layout.
+
+- **Custom Cursor:** Custom cursor and cursor-ring interactions built with vanilla JavaScript and CSS transforms
+- **Motion Design:** Scroll-triggered reveal animations across all sections
+- **Deployment:** Fully responsive, accessible layout deployed on Vercel
+
+---
+
+## 📜 Certifications
+
+- **AI & Cybersecurity Awareness** — TCS iON / MPIT–CoE / TCS Foundation &nbsp;·&nbsp; Apr 2026
+- **Programming using Java** — Infosys Springboard &nbsp;·&nbsp; Apr 2026
+- **Database Management System (Part 1 & 2)** — Infosys Springboard &nbsp;·&nbsp; Apr 2026
+- **MongoDB and AI Fundamentals** — ICT Academy / MongoDB &nbsp;·&nbsp; Sep 2025
+- **Generative AI Literacy** — FutureSkills Prime / IT-ITeS SSC Nasscom &nbsp;·&nbsp; Oct 2025
+
+---
+
+## 🏆 Achievements & Activities
+
+- 🏗️ **Full Stack Development** — Independently architected and shipped 4 production-deployed web applications spanning frontend, backend, and cloud infrastructure without formal industry mentorship
+- 📚 **Self-Directed Learning** — Mastered frontend and backend technologies through online coursework and project-based learning while maintaining strong academic performance across two degree programs
+- 🎓 **Academic Excellence** — Achieved SGPA of 7.96/10 in Sem 1 of MCA and 75% in B.Sc. Computer Science
+- 🔧 **Version Control** — Uses Git and GitHub for all projects, maintaining clean commit histories and publicly accessible repositories
+- 🗣️ **Soft Skills Training** — Completed a 165-hour Soft Skill Development Program (UNXT) through the SGBS Unnati Foundation
+
+---
+
+## 📬 Get In Touch
+
+I'm actively looking for **internship and full-time opportunities** in Full Stack / Frontend / Backend Development.
+
+- 📧 Email: [abhishektyagi250342@gmail.com](mailto:abhishektyagi250342@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/abhishek-tyagi-b17463305](https://www.linkedin.com/in/abhishek-tyagi-b17463305/)
+- 🐙 GitHub: [github.com/AbhishekTyagiMahadev](https://github.com/AbhishekTyagiMahadev)
+
+---
+
 <div align="center">
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekTyagiMahadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
- 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AbhishekTyagiMahadev&theme=dark&hide_border=false)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTyagiMahadev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- 
+  <i>⚡ Building scalable, responsive web applications — from architecture through deployment and iteration.</i>
 </div>
- 
----
- 
-## 🏆 Highlights
- 
-| 🏅 Achievement | 📝 Details |
-|---|---|
-| ☕ Java Full Stack | Strong OOP foundations in Java driving clean, modular, scalable system design |
-| 🧠 DSA Practice | Consistent problem-solving across arrays, trees, graphs, DP & backtracking |
-| 🖥️ Full Stack Projects | Independently shipped production-ready apps across frontend, backend & database — no formal mentorship |
-| 📡 API Integration | Integrated live third-party REST APIs (News API, OpenWeather, MockAPI) with async programming & error handling |
-| 📚 Self-Directed Learning | Mastered MERN stack & Python through online coursework while maintaining strong academic performance |
-| 🎓 Academic Excellence | SGPA 7.96/10 in MCA Sem 1 · 75% in B.Sc. Computer Science |
-| 🔁 Version Control | Clean Git history across all public repos, aligned with industry best practices |
- 
----
- 
-## 💡 What I'm Working On
- 
-```
-📌  Strengthening DSA — trees, graphs, DP & competitive problem solving
-📌  Building Java-based full stack projects with Spring Boot
-📌  Advancing in System Design & Scalable Architecture
-📌  Exploring Cloud (AWS) and DevOps fundamentals
-```
- 
----
- 
-<div align="center">
- 
-### ✍️ Dev Quote of the Day
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
- 
----
- 
-*"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
- 
-**— Robert C. Martin**
- 
-</div>
- 
-
-
-
