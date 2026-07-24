@@ -127,7 +127,7 @@ Full-scale e-commerce platform built with zero external frameworks — pure vani
 
 ### 💻 Personal Portfolio
 **HTML5 · CSS3 · JavaScript · Vercel** &nbsp;|&nbsp; *2025*
-&nbsp;·&nbsp; [🌐 Live](#) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/AbhishekTyagiMahadev)
+&nbsp;·&nbsp; [🌐 Live](https://abhishek-dev-portfolio-psi.vercel.app/) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/AbhishekTyagiMahadev)
 
 A production developer portfolio built on a pure vanilla stack, featuring a custom CSS cursor, scroll-triggered reveal animations, and a fully responsive, accessible layout.
 
